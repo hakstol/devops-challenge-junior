@@ -6,11 +6,11 @@ Objetivo é demonstrar inteligência, capacidade e organização para realizar t
 
 ✔ Organização <br>
 ✔ Esforço <br>
-✔ Entrega em si <br>
+✔ Entrega em si dos 2 Challenges <br>
 ✔ Documentação da entrega <br>
 
 
-### Challenge 1:
+### Challenge Ops:
 > Iniciar e configurar uma instância do WordPress no Amazon Lightsail  <br>
 https://lightsail.aws.amazon.com/ls/docs/pt_br/articles/amazon-lightsail-tutorial-launching-and-configuring-wordpress <br>
 Fazer da etapa 1 até a 5 somente! e nos enviar:
@@ -22,4 +22,4 @@ http://PublicIpAddress/wp-login.php
 - Documentação (Opcional)
 - Arquitetura (Opcional)
 
-### Challenge 2:
+### Challenge Dev:
