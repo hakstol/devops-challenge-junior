@@ -17,7 +17,7 @@ Fazer da etapa 1 até a 5 somente! e nos enviar:
 ```sh
 http://PublicIpAddress/wp-login.php
 ```
-- Dados de acesso WordPress
+- Dados de acesso do WordPress e Lightsail
 - Prints
 - Documentação (Opcional)
 - Arquitetura (Opcional)
