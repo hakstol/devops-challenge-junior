@@ -16,16 +16,16 @@ Objetivo é demonstrar inteligência, capacidade e organização para realizar t
 > Erros encontrados:
 
 1. Adicionado tag de abertura do PHP -> Linha 1
-[imgs](Erro1.png)
-[imgs](Correcao1.png)
+<img src="C:\Users\hakst\Desktop\devops-challenge-junior\imgs\Erro1.png">
+<img src="C:\Users\hakst\Desktop\devops-challenge-junior\imgs\Correcao1.png">
 
 2. Adicionado ponto e vírgula (;) -> Linha 34
-[imgs](Erro2.png)
-[imgs](Correcao2.png)
+<img src="C:\Users\hakst\Desktop\devops-challenge-junior\imgs\Erro2.png">
+<img src="C:\Users\hakst\Desktop\devops-challenge-junior\imgs\Correcao2.png">
 
 3. Adicionado método "admin_notices" -> Linha 55
-[imgs](Erro3.png)
-[imgs](Correcao3.png)
+<img src="C:\Users\hakst\Desktop\devops-challenge-junior\imgs\Erro3.png">
+<img src="C:\Users\hakst\Desktop\devops-challenge-junior\imgs\Correcao3.png">
 
 
 ### → Challenge Ops:
