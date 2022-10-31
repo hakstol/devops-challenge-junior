@@ -26,7 +26,7 @@ Pau que nasce torto nunca se endireita
 Menina que requebra a mãe pega na cabeça
 Segure o tchan
 Amarre o tchan
-Segure o tchan tchan tchan tchan
+Segure o tchan tchan tchan tchanimage.png
 Depois de nove meses você vê o resultado
 Esse é o Gera Samba arrebentando no pedaço
 Joga ela no meio, mete em cima, mete embaixo";
