@@ -36,7 +36,6 @@ Objetivo é demonstrar inteligência, capacidade e organização para realizar t
 <li>Arquitetura do sistema<br></li><br> 
 
 <h2>1. Criar a instância<h2>
-<br>
 <h3>Considere:<h3>
 <li>Região em que se encontra, para hospedar sua instância;</li>
 <li>Sistema desejado;</li>
@@ -90,7 +89,7 @@ Com o comando *cat $HOME/bitnami_application_password* você pode vizualizar sua
 ![](./imgs/Passo11.png)
 <br>
 
-*Acesso:*
+*Acesso:*<br>
 URL: http://3.233.58.246/wp-login.php<br>
-Usuário: admin-apiki<br>
-Senha: nI4lpo7bKVua<br>
+Usuário: <p>admin-apiki<p><br>
+Senha: <p>nI4lpo7bKVua<p><br>
