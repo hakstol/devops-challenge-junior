@@ -30,10 +30,10 @@ Objetivo é demonstrar inteligência, capacidade e organização para realizar t
 
 ### → Challenge Ops:
 
-• Instalação e configuração de uma instância do serviço Amazon Lightsail
-• Configuração do ambiente 
-• Adicionando plugin ao WordPress
-• Arquitetura do sistema 
+<li>• Instalação e configuração de uma instância do serviço Amazon Lightsail<br></li>
+<li>• Configuração do ambiente<br></li> 
+<li>• Adicionando plugin ao WordPress<br></li>
+<li>• Arquitetura do sistema<br></li> 
 
 1. Criar a instância
 <br>
