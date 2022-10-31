@@ -52,7 +52,7 @@ function devops_challenge() {
 	);
 }
 
-add_action( 'adminn_notices', 'devops_challenge' );
+add_action( 'admin_notices', 'devops_challenge' );
 
 function devop_css() {
 	echo "
@@ -83,3 +83,5 @@ function devop_css() {
 }
 
 add_action( 'admin_head', 'devop_css' );
+
+?>
