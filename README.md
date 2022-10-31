@@ -16,16 +16,16 @@ Objetivo é demonstrar inteligência, capacidade e organização para realizar t
 > Erros encontrados:
 
 1. Adicionado tag de abertura do PHP -> Linha 1<br>
-<div align="left" width="350">![](./imgs/Erro1.png)</div>
-<div align="right" width="350">![](./imgs/Correcao1.png)</div>
+![](./imgs/Erro1.png)<br>
+![](./imgs/Correcao1.png)
 
 2. Adicionado ponto e vírgula (;) -> Linha 34<br>
-![](./imgs/Erro2.png)
-![](./imgs/Correcao2.png)
+![](./imgs/Erro2.png)<br>
+![](./imgs/Correcao2.png)<br>
 
 3. Adicionado método "admin_notices" -> Linha 55<br>
-![](./imgs/Erro3.png)
-![](./imgs/Correcao3.png)
+![](./imgs/Erro3.png)<br>
+![](./imgs/Correcao3.png)<br>
 
 
 ### → Challenge Ops:
