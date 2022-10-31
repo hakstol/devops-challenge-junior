@@ -30,19 +30,17 @@ Objetivo é demonstrar inteligência, capacidade e organização para realizar t
 
 ### → Challenge Ops:
 
-<li>• Instalação e configuração de uma instância do serviço Amazon Lightsail<br></li>
-<li>• Configuração do ambiente<br></li> 
-<li>• Adicionando plugin ao WordPress<br></li>
-<li>• Arquitetura do sistema<br></li> 
+<li>Instalação e configuração de uma instância do serviço Amazon Lightsail<br></li>
+<li>Configuração do ambiente<br></li> 
+<li>Adicionando plugin ao WordPress<br></li>
+<li>Arquitetura do sistema<br></li><br> 
 
-1. Criar a instância
+<h2>1. Criar a instância<h2>
 <br>
 <h3>Considere:<h3>
-<br>
-
-<li> - Região em que se encontra, para hospedar sua instância;</li>
-<li> - Sistema desejado;</li>
-<li> - Com qual aplicação deseja criar no ambiente;</li>
+<li>Região em que se encontra, para hospedar sua instância;</li>
+<li>Sistema desejado;</li>
+<li>Com qual aplicação deseja criar no ambiente;</li>
 
 ![](./imgs/Passo1.png)
 <br>
@@ -81,9 +79,8 @@ Com o comando *cat $HOME/bitnami_application_password* você pode vizualizar sua
 ![](./imgs/Passo8.png)
 <br>
 
-9. Em seguida, adicione um novo trecho de código.
+9. Em seguida, adicione um novo trecho de código.<br>
 ![](./imgs/Passo9.png)
-<br>
 
 10. Adicione um nome ao plugin e o respectivo código.
 ![](./imgs/Passo10.png)
