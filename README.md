@@ -19,7 +19,7 @@ Objetivo é demonstrar inteligência, capacidade e organização para realizar t
 ![](./imgs/Erro1.png)
 ![](./imgs/Correcao1.png)
 
-2. Adicionado ponto e vírgula (;) -> Linha 34
+2. Adicionado ponto e vírgula (;) -> Linha 34<br>
 ![](./imgs/Erro2.png)
 ![](./imgs/Correcao2.png)
 
@@ -38,6 +38,7 @@ Objetivo é demonstrar inteligência, capacidade e organização para realizar t
 1. Criar a instância
 <br>
 <h3>Considere:<h3>
+<br>
 
 <li> - Região em que se encontra, para hospedar sua instância;</li>
 <li> - Sistema desejado;</li>
@@ -93,6 +94,6 @@ Com o comando *cat $HOME/bitnami_application_password* você pode vizualizar sua
 <br>
 
 *Acesso:*
-URL: http://3.233.58.246/wp-login.php
-Usuário: admin-apiki
-Senha: nI4lpo7bKVua
+URL: http://3.233.58.246/wp-login.php<br>
+Usuário: admin-apiki<br>
+Senha: nI4lpo7bKVua<br>
