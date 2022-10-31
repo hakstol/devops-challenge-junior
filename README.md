@@ -39,7 +39,7 @@ Objetivo é demonstrar inteligência, capacidade e organização para realizar t
 <h3>Considere:</h3>
 <li>Região em que se encontra, para hospedar sua instância;</li>
 <li>Sistema desejado;</li>
-<li>Com qual aplicação deseja criar no ambiente;</li>
+<li>Com qual aplicação deseja criar no ambiente;</li><br>
 
 ![](./imgs/Passo1.png)
 <br>
@@ -58,7 +58,7 @@ Com o comando *cat $HOME/bitnami_application_password* você pode vizualizar sua
 ![](./imgs/Passo4.png)
 <br>
 
-5. Na aba de *Redes*, crie um IP Estático.
+5. Na aba de *Redes*, crie um IP Estático.<br>
 ![](./imgs/Passo5.png)
 <br>
 
@@ -66,7 +66,7 @@ Com o comando *cat $HOME/bitnami_application_password* você pode vizualizar sua
 ![](./imgs/Passo6.png)
 <br>
 
-7. Já no Wordpress da aplicação, adicione um novo plugin.
+7. Já no Wordpress da aplicação, adicione um novo plugin.<br>
 ![](./imgs/Passo7.png)
 <br>
 
