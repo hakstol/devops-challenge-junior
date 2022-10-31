@@ -15,9 +15,9 @@ Objetivo é demonstrar inteligência, capacidade e organização para realizar t
 
 > Erros encontrados:
 
-1. Adicionado tag de abertura do PHP -> Linha 1
-![](./imgs/Erro1.png)
-![](./imgs/Correcao1.png)
+1. Adicionado tag de abertura do PHP -> Linha 1<br>
+<div align="left" width="350px">![](./imgs/Erro1.png)</div>
+<div align="right" width="350px">![](./imgs/Correcao1.png)</div>
 
 2. Adicionado ponto e vírgula (;) -> Linha 34<br>
 ![](./imgs/Erro2.png)
