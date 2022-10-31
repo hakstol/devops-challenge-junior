@@ -35,8 +35,8 @@ Objetivo é demonstrar inteligência, capacidade e organização para realizar t
 <li>Adicionando plugin ao WordPress<br></li>
 <li>Arquitetura do sistema<br></li><br> 
 
-<h2>1. Criar a instância<h2>
-<h3>Considere:<h3>
+<h3>1. Criar a instância</h2>
+<h3>Considere:</h3>
 <li>Região em que se encontra, para hospedar sua instância;</li>
 <li>Sistema desejado;</li>
 <li>Com qual aplicação deseja criar no ambiente;</li>
@@ -91,5 +91,5 @@ Com o comando *cat $HOME/bitnami_application_password* você pode vizualizar sua
 
 *Acesso:*<br>
 URL: http://3.233.58.246/wp-login.php<br>
-Usuário: <p>admin-apiki<p><br>
-Senha: <p>nI4lpo7bKVua<p><br>
+Usuário: admin-apiki<br>
+Senha: nI4lpo7bKVua<br>
