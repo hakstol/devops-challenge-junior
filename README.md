@@ -23,7 +23,7 @@ Objetivo é demonstrar inteligência, capacidade e organização para realizar t
 ![](./imgs/Erro2.png)
 ![](./imgs/Correcao2.png)
 
-3. Adicionado método "admin_notices" -> Linha 55
+3. Adicionado método "admin_notices" -> Linha 55<br>
 ![](./imgs/Erro3.png)
 ![](./imgs/Correcao3.png)
 
