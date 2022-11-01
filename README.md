@@ -91,5 +91,5 @@ Com o comando *cat $HOME/bitnami_application_password* você pode vizualizar sua
 
 *Acesso:*<br>
 URL: http://3.233.58.246/wp-login.php<br>
-Usuário: admin-apiki<br>
+Usuário: user<br>
 Senha: nI4lpo7bKVua<br>
