@@ -32,8 +32,7 @@ Objetivo é demonstrar inteligência, capacidade e organização para realizar t
 
 <li>Instalação e configuração de uma instância do serviço Amazon Lightsail<br></li>
 <li>Configuração do ambiente<br></li> 
-<li>Adicionando plugin ao WordPress<br></li>
-<li>Arquitetura do sistema<br></li><br> 
+<li>Adicionando plugin ao WordPress<br></li> 
 
 <h3>1. Criar a instância</h2>
 <h3>Considere:</h3>
